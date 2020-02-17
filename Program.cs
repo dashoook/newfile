@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ConsoleApp1 {
+namespace newfilee {
     public class Program { 
         static public int Example(int a, int b) { 
             int c = a + b;
