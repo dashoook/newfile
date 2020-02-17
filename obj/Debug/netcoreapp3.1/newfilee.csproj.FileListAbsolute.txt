@@ -1,0 +1,11 @@
+D:\C#\newfilee\bin\Debug\netcoreapp3.1\newfilee.exe
+D:\C#\newfilee\bin\Debug\netcoreapp3.1\newfilee.deps.json
+D:\C#\newfilee\bin\Debug\netcoreapp3.1\newfilee.runtimeconfig.json
+D:\C#\newfilee\bin\Debug\netcoreapp3.1\newfilee.runtimeconfig.dev.json
+D:\C#\newfilee\bin\Debug\netcoreapp3.1\newfilee.dll
+D:\C#\newfilee\bin\Debug\netcoreapp3.1\newfilee.pdb
+D:\C#\newfilee\obj\Debug\netcoreapp3.1\newfilee.csprojAssemblyReference.cache
+D:\C#\newfilee\obj\Debug\netcoreapp3.1\newfilee.AssemblyInfoInputs.cache
+D:\C#\newfilee\obj\Debug\netcoreapp3.1\newfilee.AssemblyInfo.cs
+D:\C#\newfilee\obj\Debug\netcoreapp3.1\newfilee.dll
+D:\C#\newfilee\obj\Debug\netcoreapp3.1\newfilee.pdb
